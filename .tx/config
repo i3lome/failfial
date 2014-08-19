@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[vikingcoin.tx]
+file_filter = src/qt/locale/vikingcoin_<lang>.ts
+source_file = src/qt/locale/vikingcoin_en.ts
+source_lang = en

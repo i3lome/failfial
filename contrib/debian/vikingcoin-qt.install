@@ -1,0 +1,6 @@
+usr/local/bin/vikingcoin-qt usr/bin
+share/pixmaps/vikingcoin32.xpm usr/share/pixmaps
+share/pixmaps/vikingcoin16.xpm usr/share/pixmaps
+share/pixmaps/vikingcoin128.png usr/share/pixmaps
+debian/vikingcoin-qt.desktop usr/share/applications
+debian/vikingcoin-qt.protocol usr/share/kde4/services/

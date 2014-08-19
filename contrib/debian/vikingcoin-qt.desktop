@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Vikingcoin
+Comment=Vikingcoin P2P Cryptocurrency
+Comment[fr]=Vikingcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Vikingcoin, eşten eşe kriptografik sanal para birimi
+Exec=vikingcoin-qt %u
+Terminal=false
+Type=Application
+Icon=vikingcoin128
+MimeType=x-scheme-handler/vikingcoin;
+Categories=Office;Finance;
